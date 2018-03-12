@@ -1,0 +1,22 @@
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csprojResolveAssemblyReference.cache
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmMain.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmNhanVien.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmPhongBan.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.Cache
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csprojResolveAssemblyReference.cache
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmMain.resources
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmNhanVien.resources
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmPhongBan.resources
+D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.Cache
