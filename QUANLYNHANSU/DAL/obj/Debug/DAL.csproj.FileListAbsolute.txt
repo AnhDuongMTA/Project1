@@ -1,0 +1,7 @@
+E:\c#\QUANLYNHANSU\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\c#\QUANLYNHANSU\DAL\bin\Debug\DAL.dll
+E:\c#\QUANLYNHANSU\DAL\bin\Debug\DAL.pdb
+E:\c#\QUANLYNHANSU\DAL\bin\Debug\ValueObject.dll
+E:\c#\QUANLYNHANSU\DAL\bin\Debug\ValueObject.pdb
+E:\c#\QUANLYNHANSU\DAL\obj\Debug\DAL.dll
+E:\c#\QUANLYNHANSU\DAL\obj\Debug\DAL.pdb

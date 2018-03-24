@@ -1,0 +1,9 @@
+E:\c#\QUANLYNHANSU\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\c#\QUANLYNHANSU\BUS\bin\Debug\BUS.dll
+E:\c#\QUANLYNHANSU\BUS\bin\Debug\BUS.pdb
+E:\c#\QUANLYNHANSU\BUS\bin\Debug\DAL.dll
+E:\c#\QUANLYNHANSU\BUS\bin\Debug\ValueObject.dll
+E:\c#\QUANLYNHANSU\BUS\bin\Debug\DAL.pdb
+E:\c#\QUANLYNHANSU\BUS\bin\Debug\ValueObject.pdb
+E:\c#\QUANLYNHANSU\BUS\obj\Debug\BUS.dll
+E:\c#\QUANLYNHANSU\BUS\obj\Debug\BUS.pdb

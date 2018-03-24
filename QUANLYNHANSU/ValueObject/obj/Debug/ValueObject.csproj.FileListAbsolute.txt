@@ -1,0 +1,5 @@
+E:\c#\QUANLYNHANSU\ValueObject\bin\Debug\ValueObject.dll
+E:\c#\QUANLYNHANSU\ValueObject\bin\Debug\ValueObject.pdb
+E:\c#\QUANLYNHANSU\ValueObject\obj\Debug\ValueObject.csprojResolveAssemblyReference.cache
+E:\c#\QUANLYNHANSU\ValueObject\obj\Debug\ValueObject.dll
+E:\c#\QUANLYNHANSU\ValueObject\obj\Debug\ValueObject.pdb
