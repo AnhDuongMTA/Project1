@@ -20,3 +20,14 @@ D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.
 D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmNhanVien.resources
 D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmPhongBan.resources
 D:\SV\kì 2 năm 3\Thực tập nhóm_TH14\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmMain.resources
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmNhanVien.resources
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.View.frmPhongBan.resources
+C:\Users\ADMIN\Desktop\project1test\Project1\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.Cache
